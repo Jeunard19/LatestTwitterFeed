@@ -2,4 +2,4 @@
 
 Welcome,
 
-Just clone this git and run it.
+Just clone this repo and run it.
